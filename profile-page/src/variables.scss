@@ -1,7 +1,8 @@
 :root {
     --site-background-color: #000;
     --title-text-color: #fff;
-    --text-color: rgba(255, 255, 255, 0.64);
+    --text-color-grey-1: rgba(255, 255, 255, 0.64);
+    --text-color-grey-2: #E2E8F0;
 
     --fontSize-xs: 0.75rem;
     --fontSize-sm: clamp(10px, calc(10.00px + 0.00vw), 10px);
