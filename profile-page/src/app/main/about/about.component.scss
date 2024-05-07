@@ -3,7 +3,7 @@
   align-items: center;
   gap: var(--flex-gap);
   margin-bottom: 2.5rem;
-  
+
   .profile-picture {
     width: 120px;
     height: 120px;
@@ -28,6 +28,7 @@
 }
 
 .about-container {
+    margin-bottom: 3.5rem;
   .about__title {
     color: var(--title-text-color);
     font-size: var(--fontSize-lg);
