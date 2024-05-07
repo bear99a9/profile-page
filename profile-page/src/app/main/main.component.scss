@@ -1,0 +1,11 @@
+.main-container{
+    background-color: var(--site-background-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 115px;
+    padding-bottom: 115px;
+    max-width: 500px;
+    margin: auto;
+}

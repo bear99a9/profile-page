@@ -1,0 +1,14 @@
+:root {
+    --site-background-color: #000;
+    --title-text-color: #fff;
+    --text-color: rgba(255, 255, 255, 0.64);
+
+    --fontSize-xs: 0.75rem;
+    --fontSize-sm: clamp(10px, calc(10.00px + 0.00vw), 10px);
+    --fontSize-md: clamp(14px, calc(14.00px + 0.00vw), 14px);
+    --fontSize-lg: clamp(18px, calc(3.71px + 3.81vw), 22px);
+
+    --flex-gap: clamp(4px, calc(-5.09px + 2.42vw), 24px);
+
+}
+
